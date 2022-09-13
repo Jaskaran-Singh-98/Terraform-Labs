@@ -1,5 +1,5 @@
 variable "resource_group_name" {
-    default = "rg-weu-test"
+    default = "rg-weu-dev"
 }
 
 variable "resource_group_location" {
